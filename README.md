@@ -6,7 +6,7 @@ It will help to work safety team company minimize traffic accident risks.
 
 # LIFE CIRCLE DATA ANALYSIS PROJECT
 
-##1. BUSINESS ISSUE:
+1. BUSINESS ISSUE:
 Although every trucks drivers did courses and trainings to avoid accedents risks, there are many traffic infraction during the work jorney of trucks drivers.  
 
 2. UNDERSTANDING THE BUSINESS:
