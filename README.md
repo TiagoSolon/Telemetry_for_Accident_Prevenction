@@ -24,8 +24,14 @@ It did a SQL query from ERP system company, that ERP are integarted with board c
 after it exported to CSV.
 
 5. DATA CLEANING:
-This process did usisng Python and Pandas with jupyter notebook.
-Standardization, data types, conversions, dirt cleaning and / or inconsistent or unimportant data.
+This process it did usisng Python with jupyter notebook.
+Check unfilled columns. 
+Deleting some inconsistent rows. 
+Translantion contents some columns to English.
+Tranlation of columns label to English.
+Deleting some inconsistent columns. 
+Replace some characters.
+Changing data types.
 
 6. EXPLORATION OF DATA:
 Understand what the data says, create hypothesis maps and hypothesis questions that generate insights for analysis
