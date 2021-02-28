@@ -20,8 +20,7 @@ how many times by drivers and trucks of traffic infractions.
 
 4. DATA COLLECTION:
 By CSV from Microsoft SQL database. 
-It did a SQL query from ERP system company, that ERP are integarted with board computer of trucks to collecting data from GPS divece of truck getting temetry data,
-after it exported to CSV.
+It did a SQL query from ERP system company, that ERP are integarted with web service to colect data from board computer of trucks and colect data from GPS divece of truck getting temetry data, after, it was export to CSV.
 
 5. DATA CLEANING:
 This process it did usisng Python with jupyter notebook.
@@ -34,7 +33,17 @@ Replace some characters.
 Changing data types.
 
 6. EXPLORATION OF DATA:
-Understand what the data says, create hypothesis maps and hypothesis questions that generate insights for analysis
+Understand what the data says, create hypothesis maps and hypothesis questions that generate insights for analysis.
+New columns created:
+** those columuns are filled with API nominatim to get info about address from geo coordinates **
+df['region'] 
+df['state']
+df['city'] 
+df['address']
+** these columns did create to make calculate KM ran between last odometer and next odometer **
+df['odometer2']
+df['km_ran']
+
 
 7. DATA MODELING:
 Create a new standardized and normalized dataset with the insights seen in the data exploration phase, create new columns, 
