@@ -39,7 +39,7 @@ New columns created:
 df['region'] 
 df['state']
 df['city'] 
-df['address']
+df['road']
 ** these columns did create to make calculate KM ran between last odometer and next odometer **
 df['odometer2']
 df['km_ran']
@@ -49,7 +49,7 @@ df['km_ran']
 Create a new standardized and normalized dataset with the insights seen in the data exploration phase, create new columns, 
 categories or dimensions from the original dataset.
 
-8. VIEWING AND REPORT:
+8. VISUALIZATION AND REPORT:
 Here you work the visualization / report of the analysed data, the concept of storytelling can be used if necessary.
 
 9. CONCLUSION:
