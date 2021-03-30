@@ -44,19 +44,14 @@ df['road']
 df['odometer2']
 df['km_ran']
 
-
 7. DATA MODELING:
-Create a new standardized and normalized dataset with the insights seen in the data exploration phase, create new columns, 
-categories or dimensions from the original dataset.
+Dataset created with new columns of categories from dataset origin to analysis in the chart.
 
 8. VISUALIZATION AND REPORT:
-Here you work the visualization / report of the analysed data, the concept of storytelling can be used if necessary.
+Developed dashboard in Microsoft Power BI and integrated Google Maps JavaScript API to use Google Street Viwer.
 
 9. CONCLUSION:
-Summary of work performed (descriptive).
-Activities outside the planned scope.
-Any Ease of the project.
-Any Difficulty of the project?
+Note the analysis are grouped by 3 hypothesis are Branches, Drivers and Location to understand whats happened by differents perspectives and to help better strategy to go action.
 
 
 
