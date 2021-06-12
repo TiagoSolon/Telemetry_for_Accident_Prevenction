@@ -4,7 +4,7 @@ This project there is dataset with geolocation data, drivers name and trucks Id 
 on roads linked among states of Brazil.
 It will help to work safety team company minimize traffic accident risks. 
 
-# Life Circle Data Aanalysis Project (IN DEVELOPMENT)
+# Life Circle Data Aanalysis Project 
 
 1. BUSINESS ISSUE:
 Although every trucks drivers did courses and trainings to avoid accedents risks, there are many traffic infraction during the work jorney of trucks drivers.  
